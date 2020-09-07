@@ -1,6 +1,9 @@
-# haval-nuxt
+# haval-club
 
-> haval 
+Vue, vuetify, nuxt
+
+[Working url](http://models.haval-club.ru/)
+
 
 ## Build Setup
 
