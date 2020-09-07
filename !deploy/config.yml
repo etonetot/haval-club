@@ -1,0 +1,9 @@
+apps:
+- name: haval
+  script: npm
+  cwd: .
+  max_memory_restart: "250M" 	# in case nuxt renderer eats al
+  args: "start"	# command to skip build and start renderer
+  env_production:
+    PORT: 3000		
+    NODE_ENV: production
